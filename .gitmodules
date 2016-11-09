@@ -1,3 +1,4 @@
 [submodule "sub_project"]
 	path = sub_project
 	url = https://github.com/ddhjy/sub_project.git
+	branch = stable
